@@ -1,7 +1,7 @@
 # NumPy CLI Student Analyzer
 
 A command-line based student data analyzer built using **NumPy**.  
-This project demonstrates matrix operations, data analysis, and basic ML preprocessing concepts.
+This project demonstrates matrix operations and data analysis.
 
 ---
 
