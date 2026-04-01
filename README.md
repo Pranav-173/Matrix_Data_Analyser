@@ -24,7 +24,3 @@ This project demonstrates matrix operations and data analysis.
 - Python
 - NumPy
 - JSON 
-
----
-
-## 📂 Project Structure
