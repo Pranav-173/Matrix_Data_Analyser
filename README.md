@@ -1,4 +1,4 @@
-# NumPy CLI Student Analyzer
+# NumPy CLI Analyzer
 
 A command-line based student data analyzer built using **NumPy**.  
 This project demonstrates matrix operations and data analysis.
