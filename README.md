@@ -7,15 +7,15 @@ This project demonstrates matrix operations and data analysis.
 
 ## Features
 
-- Add student marks dynamically
+- Add student marks
 - Display student data
 - Calculate:
   - Student-wise averages
   - Subject-wise averages
-- Find top performer
-- Rank students
-- Clear all data
-- Save & load data using JSON
+- Finds top performer
+- Ranks students
+- Clears all data
+- Saves & load data using JSON
 
 ---
 
